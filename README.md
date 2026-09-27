@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌿 CSE Student Portfolio Template
 
-## Getting Started
+A clean portfolio template made with Next.js and Tailwind CSS. It is designed for students to showcase their academic profiles, professional profiles, and achievements.
 
-First, run the development server:
+---
 
+## How to Use This Template
+
+Follow these simple steps to make this portfolio your own:
+
+### Step 1: Download the Project
+1. Click the green **Code** button at the top of this GitHub page.
+2. Click **Download ZIP** and extract the folder on your computer.
+
+### Step 2: Install and Run
+Open your terminal inside the project folder and run these commands:
 ```bash
+# Install dependencies
+npm install
+
+# Start the local server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+Now, open **http://localhost:3000** in your browser to see the website.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Step 3: Customize Content
+Open the **`src/app/page.tsx`** file in your code editor (like VS Code) and change these items:
+- **Image:** Replace the photo in `src/image/me.jpg` with your own profile picture.
+- **Links:** Put your real GitHub, LinkedIn, Facebook, and Instagram profile links inside the `href=""` tags in the navbar.
+- **Text:** Change the name, university name, and achievement text with your own information.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Step 4: Host for Free
+1. Upload your updated code to your personal GitHub account.
+2. Go to **[Vercel](https://vercel.com)** and log in with GitHub.
+3. Click **Add New > Project**, import your repository, and click **Deploy**. Your website will be live in one minute!
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
+🌿 *If you like this template, please give this repository a Star (⭐)!*
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
