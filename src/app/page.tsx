@@ -37,7 +37,7 @@ export default function Home() {
             </a>
 
             <a
-              href="www.linkedin.com/in/rowshan-rubayet-54154943a"
+              href="https://www.linkedin.com/in/rowshan-rubayet-off2004"
               target="_blank"
               rel="noopener noreferrer"
               className="text-[#787878] transition-colors hover:text-[#BA5B55]"
