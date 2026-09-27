@@ -141,7 +141,7 @@ export default function Home() {
                 alt="Rowshan Rubayet"
                 fill
                 priority
-                unoptimized // <-- Add this to serve the original, untouched image
+                unoptimized
                 className="object-cover"
               />
             </div>
@@ -202,9 +202,9 @@ export default function Home() {
                   United International University
                 </p>
                 <p className="mt-4 text-3xl font-bold text-[#EAEAEA]">
-                  3.85*
+                  3.85
                   <span className="ml-1 text-sm font-medium text-[#787878]">
-                    CGPA - 9th Trimester
+                  CGPA — 9th Trimester (Ongoing)
                   </span>
                 </p>
               </div>
