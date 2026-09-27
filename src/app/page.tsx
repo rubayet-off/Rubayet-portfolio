@@ -258,7 +258,7 @@ export default function Home() {
               {[
                 {
                   label: "Programming Languages",
-                  skills: ["C", "C++", "Java", "Php" "JavaScript", "Python"],
+                  skills: ["C", "C++", "Java", "Php", "JavaScript", "Python"],
                 },
                 {
                   label: "Web Development",
