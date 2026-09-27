@@ -389,7 +389,7 @@ I'm really interested in Artificial Intelligence and Machine Learning, especiall
                   <circle cx="12" cy="10" r="3" />
                 </svg>
               </div>
-              <p className="text-sm text-[#787878]">Based in</p>
+              <p className="text-sm text-[#787878]">Current location</p>
               <p className="mt-0.5 font-semibold text-[#EAEAEA]">
                 Dhaka, Bangladesh
               </p>
